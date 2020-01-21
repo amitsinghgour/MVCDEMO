@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MVCDEMO", ".", "{02B9D3B8-ED56-4E05-BEB6-FED5E417AF08}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59949"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Projects\MVCDEMO\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59949\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59949"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Projects\MVCDEMO\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59949\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59949"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B9D3B8-ED56-4E05-BEB6-FED5E417AF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B9D3B8-ED56-4E05-BEB6-FED5E417AF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E90EB9D-B6DD-4399-98EF-FA76D63B8A7C}
+	EndGlobalSection
+EndGlobal
